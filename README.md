@@ -4,16 +4,16 @@
 
 ### **AI & ML Engineer | Full-Stack .NET Developer | Unity Game Developer**
 
-[![Portfolio Website](https://img.shields.io/badge/🌐_Portfolio-JaiNitheshMayur.simhadwaja.com-0A66C2?style=for-the-badge)](https://jainitheshmayur.simhadwaja.com)
+[![Portfolio Website](https://img.shields.io/badge/🌐_Portfolio-JaiNitheshMayur.simhadwaja.com-0A66C2?style=for-the-badge)](http://jainitheshmayur.simhadwaja.com)
 [![GitHub](https://img.shields.io/badge/GitHub-@jai--nithesh-181717?style=for-the-badge&logo=github)](https://github.com/jai-nithesh)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Jai_Nithesh_Mayur-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/jai-nithesh)
-[![Email](https://img.shields.io/badge/Email-Contact_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jainitheshmayur@simhadwaja.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Jai_Nithesh_Mayur-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/jainitheshmayurm/)
+[![Email](https://img.shields.io/badge/Email-Contact_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:m.jainitheshmayur@gmail.com)
 
 ---
 
 *Building intelligent systems, scalable web applications, and mathematically driven interactive experiences.*
 
-[🌐 **Visit My Live Website**](https://jainitheshmayur.simhadwaja.com) • [💼 **Connect on LinkedIn**](https://www.linkedin.com/in/jai-nithesh) • [📂 **Explore My Repositories**](https://github.com/jai-nithesh?tab=repositories)
+[🌐 **Visit My Live Website**](http://jainitheshmayur.simhadwaja.com) • [💼 **Connect on LinkedIn**](https://www.linkedin.com/in/jainitheshmayurm/) • [📂 **Explore My Repositories**](https://github.com/jai-nithesh?tab=repositories)
 
 </div>
 
@@ -27,7 +27,7 @@ My passion lies at the intersection of **intelligent algorithms, full-stack soft
 
 * 🎓 **Education:** Bachelor of Engineering (B.E.) in Computer Science & Engineering (AI & ML)
 * 💡 **Core Focus:** Artificial Intelligence & Machine Learning, Full-Stack Web Development (.NET), and Game Physics/Systems Engineering
-* 🌐 **Personal Hub:** [JaiNitheshMayur.simhadwaja.com](https://jainitheshmayur.simhadwaja.com)
+* 🌐 **Personal Hub:** [JaiNitheshMayur.simhadwaja.com](http://jainitheshmayur.simhadwaja.com)
 * 📍 **Location:** Bengaluru, Karnataka, India
 
 ---
@@ -83,23 +83,23 @@ I am always open to collaborating on innovative **AI/ML research, full-stack sof
 
 | Platform | Handle / Link | Purpose |
 | :--- | :--- | :--- |
-| 🌍 **Official Website** | [jainitheshmayur.simhadwaja.com](https://jainitheshmayur.simhadwaja.com) | Portfolio, Bio, Interactive Resume & Updates |
+| 🌍 **Official Website** | [jainitheshmayur.simhadwaja.com](http://jainitheshmayur.simhadwaja.com) | Portfolio, Bio, Interactive Resume & Updates |
 | 💻 **GitHub** | [@jai-nithesh](https://github.com/jai-nithesh) | Open-Source Code, Game Dev & Software Projects |
-| 💼 **LinkedIn** | [Jai Nithesh Mayur](https://www.linkedin.com/in/jai-nithesh) | Professional Network & Career Updates |
+| 💼 **LinkedIn** | [Jai Nithesh Mayur](https://www.linkedin.com/in/jainitheshmayurm/) | Professional Network & Career Updates |
 | 🏢 **Simha Dwaja** | [simhadwaja.com](http://www.simhadwaja.com) | Software Innovation & Web Solutions |
-| 📧 **Email** | [jainitheshmayur@simhadwaja.com](mailto:jainitheshmayur@simhadwaja.com) | Direct Inquiries & Collaborations |
+| 📧 **Email** | [jainitheshmayur@simhadwaja.com](mailto:m.jainitheshmayur@gmail.com) | Direct Inquiries & Collaborations |
 
 ---
 
 ## 📌 About This Repository
 
-This repository houses the source code and assets for my personal website (**[JaiNitheshMayur.simhadwaja.com](https://jainitheshmayur.simhadwaja.com)**), built with **ASP.NET MVC (.NET)**, **C#**, **Bootstrap 5**, and custom interactive JavaScript modules.
+This repository houses the source code and assets for my personal website (**[JaiNitheshMayur.simhadwaja.com](http://jainitheshmayur.simhadwaja.com)**), built with **ASP.NET MVC (.NET)**, **C#**, **Bootstrap 5**, and custom interactive JavaScript modules.
 
 <div align="center">
 
 ---
 
-**⚡ Designed & Engineered by [Jai Nithesh Mayur](https://jainitheshmayur.simhadwaja.com)**  
+**⚡ Designed & Engineered by [Jai Nithesh Mayur](http://jainitheshmayur.simhadwaja.com)**  
 *© Jai Nithesh Mayur. All Rights Reserved.*
 
 </div>
